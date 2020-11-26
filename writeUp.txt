@@ -1,0 +1,10 @@
+Muhammad Hassan
+11/24/2020
+CS480 final project writeup
+
+I had to learn many different technologies as well as different design pattern. for the back-end I learned the Spring framework for java from multiple sources such as the 
+official docs and hours of youtube vidoes. there were many sub-technologies that I had to learn for example how to use java JPA to connect with a backend and persist
+entities. I had to learn the MVC and the REST design pattern so that my front-end could communicate with my rest api through the HTTP protocols and pre-defined routes.
+a big challeng with the spring framework was figuring out how to configure the different things that were needed. other than the backend I also had to learn many things for the 
+front-end such as how to use routing in React.js using the React-router. how to use Ajax to make HTTP requests. how to use the material-ui library to make the website
+look better. and many other things. through this project I learned many different things which I am grateful for.
